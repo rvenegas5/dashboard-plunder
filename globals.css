@@ -45,6 +45,7 @@
   flex-direction: row;
   pointer-events: none;
   display: block;
+  zoom: 75%;
 }
 
 .container-center-horizontal > * {
