@@ -1,0 +1,9 @@
+.desktop-my-reports-distributers-only {
+  align-items: flex-start;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 1421px;
+  overflow: hidden;
+  width: 1920px;
+}
+

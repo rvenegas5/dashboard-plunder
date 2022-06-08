@@ -1,0 +1,10 @@
+.tablet-edit-cell-number {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1366px;
+  padding: 134px 106px;
+  width: 1024px;
+}
+

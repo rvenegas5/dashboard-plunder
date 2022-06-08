@@ -1,0 +1,7 @@
+.tablet-my-reports-distributers-only {
+  align-items: flex-start;
+  background-color: var(--hint-of-red);
+  display: flex;
+  width: 1024px;
+}
+

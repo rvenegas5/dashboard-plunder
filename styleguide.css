@@ -1,0 +1,48 @@
+:root { 
+  --alabaster: #fafafa;
+  --bizarre: #f2dedb;
+  --black: #000000;
+  --black-2: #020202;
+  --black-haze: #f6f6f6;
+  --cameo: #d8b696;
+  --cararra: #ebebeb;
+  --cloud: #c7c7c7;
+  --cod-gray: #070606;
+  --cultured-pearl: #f5f5f5;
+  --dove-gray: #707070;
+  --eerie-black: #202020;
+  --gallery: #efefef;
+  --geyser: #d1e0ea;
+  --hint-of-red: #f9f9f9;
+  --iron: #d8d8d8;
+  --log-cabin: #222222;
+  --pale-sky: #64778c;
+  --quick-silver: #a5a5a5;
+  --romance: #fffcfc;
+  --royal-blue: #2f5df2;
+  --shady-lady: #aaaaaa;
+  --silver-sand: #c2c2c2;
+  --sonic-silver: #747474;
+  --stack: #8f8f8f;
+  --surf-crest: #cfe2d9;
+  --white: #ffffff;
+ 
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+  --font-size-xl: 15px;
+  --font-size-xxl: 16px;
+  --font-size-xxxl: 18px;
+  --font-size-xxxxl: 20px;
+ 
+  --font-family-avenir-black: "Avenir-Black", Helvetica;
+  --font-family-avenir-book: "Avenir-Book", Helvetica;
+  --font-family-avenir-heavy: "Avenir-Heavy", Helvetica;
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-bodoni72-bold: "Bodoni72-Bold", Helvetica;
+  --font-family-cairo: "Cairo", Helvetica;
+  --font-family-manrope: "Manrope", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}

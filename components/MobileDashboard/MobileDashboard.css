@@ -1,0 +1,9 @@
+.mobile-dashboard {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  flex-direction: column;
+  height: 1491px;
+  width: 414px;
+}
+

@@ -1,0 +1,10 @@
+.mobile-my-reports-distributers-only {
+  align-items: flex-start;
+  background-color: var(--hint-of-red);
+  display: flex;
+  flex-direction: column;
+  height: 1044px;
+  position: relative;
+  width: 414px;
+}
+

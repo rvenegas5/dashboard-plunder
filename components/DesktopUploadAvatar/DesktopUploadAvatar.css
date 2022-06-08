@@ -1,0 +1,10 @@
+.desktop-upload-avatar {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1421px;
+  padding: 40px 219px;
+  width: 1920px;
+}
+

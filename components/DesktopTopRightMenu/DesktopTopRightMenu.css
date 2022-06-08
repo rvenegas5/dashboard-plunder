@@ -1,0 +1,11 @@
+.desktop-top-right-menu {
+  align-items: flex-start;
+  background-color: var(--hint-of-red);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1421px;
+  padding: 112.0px 46.0px;
+  width: 1920px;
+}
+

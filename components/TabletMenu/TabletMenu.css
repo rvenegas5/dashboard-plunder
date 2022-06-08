@@ -1,0 +1,9 @@
+.tablet-menu {
+  align-items: flex-start;
+  background-color: var(--hint-of-red);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  width: 1024px;
+}
+

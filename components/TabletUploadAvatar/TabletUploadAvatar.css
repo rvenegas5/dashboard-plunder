@@ -1,0 +1,10 @@
+.tablet-upload-avatar {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1366px;
+  padding: 122.0px 59.0px;
+  width: 1024px;
+}
+

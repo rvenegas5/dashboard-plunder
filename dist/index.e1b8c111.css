@@ -1,0 +1,369 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import "https://fonts.googleapis.com/css?family=Manrope:400,700,600,800|Cairo:700,600|Open+Sans:400,700,600|Poppins:700,500|Montserrat:400,700,500";
+@import "https://px.animaapp.com/601b4eac70d7b1a36d6683c6.601b4eae32c268e0fee747ef.siG2jE9.rcp.png";
+@font-face {
+  font-family: Avenir-Black;
+  font-style: normal;
+  font-weight: 900;
+  src: url("Avenir-Black-03.c8953368.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Avenir-Book;
+  font-style: normal;
+  font-weight: 400;
+  src: url("AvenirArabic-Book.8cde81e0.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Avenir-Heavy;
+  font-style: normal;
+  font-weight: 400;
+  src: url("Avenir-Heavy-05.31e40df7.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Avenir-Medium;
+  font-style: normal;
+  font-weight: 500;
+  src: url("AvenirLTStd-Medium.c81e7d43.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Bodoni72-Bold;
+  font-style: normal;
+  font-weight: 700;
+  src: url("Bodoni 72.627c165e.ttc");
+}
+
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+.container-center-horizontal {
+  pointer-events: none;
+  flex-direction: row;
+  display: block;
+  width: 50vh !important;
+}
+
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --alabaster: #fafafa;
+  --bizarre: #f2dedb;
+  --black: #000;
+  --black-2: #020202;
+  --black-haze: #f6f6f6;
+  --cameo: #d8b696;
+  --cararra: #ebebeb;
+  --cloud: #c7c7c7;
+  --cod-gray: #070606;
+  --cultured-pearl: #f5f5f5;
+  --dove-gray: #707070;
+  --eerie-black: #202020;
+  --gallery: #efefef;
+  --geyser: #d1e0ea;
+  --hint-of-red: #f9f9f9;
+  --iron: #d8d8d8;
+  --log-cabin: #222;
+  --pale-sky: #64778c;
+  --quick-silver: #a5a5a5;
+  --romance: #fffcfc;
+  --royal-blue: #2f5df2;
+  --shady-lady: #aaa;
+  --silver-sand: #c2c2c2;
+  --sonic-silver: #747474;
+  --stack: #8f8f8f;
+  --surf-crest: #cfe2d9;
+  --white: #fff;
+  --font-size-l: 14px;
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+  --font-size-xl: 15px;
+  --font-size-xxl: 16px;
+  --font-size-xxxl: 18px;
+  --font-size-xxxxl: 20px;
+  --font-family-avenir-black: "Avenir-Black", Helvetica;
+  --font-family-avenir-book: "Avenir-Book", Helvetica;
+  --font-family-avenir-heavy: "Avenir-Heavy", Helvetica;
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-bodoni72-bold: "Bodoni72-Bold", Helvetica;
+  --font-family-cairo: "Cairo", Helvetica;
+  --font-family-manrope: "Manrope", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+
+.desktop-search-popup {
+  height: 1421px;
+  width: 1920px;
+}
+
+.desktop-upload-avatar {
+  height: 1421px;
+  width: 1920px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 40px 219px;
+  display: flex;
+}
+
+.desktop-edit-email {
+  height: 1421px;
+  width: 1920px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 315px 166px;
+  display: flex;
+}
+
+.desktop-edit-cell-number {
+  height: 1421px;
+  width: 1920px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 151px 166px;
+  display: flex;
+}
+
+.desktop-congratulations-50-off {
+  height: 1421px;
+  width: 1920px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 15px 651px;
+  display: flex;
+}
+
+.desktop-top-right-menu {
+  background-color: var(--hint-of-red);
+  height: 1421px;
+  width: 1920px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 112px 46px;
+  display: flex;
+}
+
+.desktop-dashboard {
+  height: 1421px;
+  width: 1920px;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.desktop-my-connections-ecwid-social-connect-dashboard {
+  height: 1421px;
+  width: 1920px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.desktop-my-account {
+  height: 1421px;
+  width: 1920px;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.desktop-my-reports-distributers-only {
+  background-color: var(--hint-of-red);
+  height: 1421px;
+  width: 1920px;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.tablet-search-pop-up {
+  height: 1366px;
+  width: 1024px;
+}
+
+.tablet-upload-avatar {
+  height: 1366px;
+  width: 1024px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 122px 59px;
+  display: flex;
+}
+
+.tablet-edit-email {
+  height: 1366px;
+  width: 1024px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 140px 106px;
+  display: flex;
+}
+
+.tablet-edit-cell-number {
+  height: 1366px;
+  width: 1024px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 134px 106px;
+  display: flex;
+}
+
+.tablet-congratulations-50-off {
+  height: 1366px;
+  width: 1024px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  padding: 438px 203px;
+  display: flex;
+}
+
+.tablet-menu {
+  background-color: var(--hint-of-red);
+  width: 1024px;
+  background-position: 50%;
+  background-size: cover;
+  align-items: flex-start;
+  display: flex;
+}
+
+.tablet-dashboard {
+  background-color: var(--hint-of-red);
+  height: 1366px;
+  width: 1024px;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.tablet-my-connections-ecwid-social-connect-dashboard {
+  width: 1024px;
+  align-items: flex-start;
+  display: flex;
+}
+
+.tablet-my-account {
+  width: 1024px;
+  align-items: flex-start;
+  display: flex;
+}
+
+.tablet-my-reports-distributers-only {
+  background-color: var(--hint-of-red);
+  width: 1024px;
+  align-items: flex-start;
+  display: flex;
+}
+
+.mobile-search-pop {
+  height: 812px;
+  width: 414px;
+  align-items: flex-start;
+  padding: 108px 17px;
+  display: flex;
+}
+
+.mobile-upload-avatar {
+  height: 812px;
+  width: 414px;
+  align-items: flex-start;
+  padding: 39px 18px;
+  display: flex;
+}
+
+.mobile-edit-email {
+  height: 812px;
+  width: 414px;
+  align-items: flex-start;
+  padding: 108px 17px;
+  display: flex;
+}
+
+.mobile-edit-cell-number {
+  height: 812px;
+  width: 414px;
+  align-items: flex-start;
+  padding: 28px 17px;
+  display: flex;
+}
+
+.mobile-congratulations-50-off {
+  height: 812px;
+  width: 414px;
+  align-items: flex-start;
+  padding: 145px 48px;
+  display: flex;
+}
+
+.mobile-hamburger-menu {
+  height: 812px;
+  width: 414px;
+  align-items: flex-start;
+  padding: 63px 15px;
+  display: flex;
+}
+
+.mobile-dashboard {
+  background-color: var(--hint-of-red);
+  height: 1491px;
+  width: 414px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+.mobile-ecwid-social-connect-dashboard {
+  height: 1103px;
+  width: 414px;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+.mobile-my-account {
+  width: 414px;
+  align-items: flex-start;
+  display: flex;
+}
+
+.mobile-my-reports-distributers-only {
+  background-color: var(--hint-of-red);
+  height: 1044px;
+  width: 414px;
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.desktop-dashboard-1 {
+  height: 1421px;
+  width: 1920px;
+  align-items: flex-start;
+  display: flex;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.e1b8c111.css.map */
