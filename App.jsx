@@ -37,6 +37,9 @@ function App() {
   return (
     <Router>
       <Switch>
+        <Route path="/">
+          <DesktopDashboard {...desktopDashboardData} />
+        </Route>
         <Route path="/:path(|desktop-search-popup)">
           <DesktopSearchPopup />
         </Route>
