@@ -44,10 +44,14 @@ function App() {
   return (
     <Router>
       <Switch>
+<<<<<<< HEAD
         <Route exact path="/">
           <Redirect to="/desktop-dashboard" />
         </Route>
         <Route path="/desktop-dashboard/:email/">
+=======
+        <Route path="/">
+>>>>>>> c5fee8982e1e413b97babf9108022a0a42415e02
           <DesktopDashboard {...desktopDashboardData} />
         </Route>
         <Route path="/:path(|desktop-search-popup)">
