@@ -40,11 +40,20 @@
   text-decoration: none;
 }
 
+.full-width-a {
+  width: 100%;
+}
+
+.full-height-a {
+  height: 100%;
+}
+
 .container-center-horizontal {
-  width: 50vh !important;
+  display: flex;
   flex-direction: row;
   pointer-events: none;
-  display: block;
+  width: 100%;
+  justify-content: center;
 }
 
 .container-center-horizontal > * {
@@ -52,6 +61,16 @@
   pointer-events: auto;
 }
 
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
 * {
   box-sizing: border-box;
+}
+
+@media (max-width: 1440px) {
+  .container-center-horizontal {
+    zoom: 75%;
+  }
 }

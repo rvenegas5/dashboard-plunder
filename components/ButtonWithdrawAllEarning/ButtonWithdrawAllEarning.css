@@ -1,0 +1,49 @@
+.button-withdraw-all-earning {
+  align-items: flex-start;
+  background-color: var(--bizarre);
+  border-radius: 10px;
+  box-shadow: 2.78px 15.76px 40px #695f970d;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-left: 0;
+  margin-top: 17px;
+  min-width: 143px;
+  padding: 0 48.4px;
+}
+
+.upload {
+  letter-spacing: 0;
+  line-height: 49px;
+  margin-top: -4.7px;
+  min-height: 20px;
+  min-width: 44px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-withdraw-all-earning.button-withdraw-all-earning-1 {
+  left: 13px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 520px;
+}
+
+.button-withdraw-all-earning.button-withdraw-all-earning-2 {
+  margin-left: unset;
+  margin-top: unset;
+}
+
+.button-withdraw-all-earning.group-33 {
+  flex: 1;
+  height: unset;
+  margin-left: unset;
+  margin-top: unset;
+  min-width: 142.82px;
+}
+
+.button-withdraw-all-earning.group-33 .upload {
+  margin-top: -4.71px;
+}
+

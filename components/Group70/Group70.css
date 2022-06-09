@@ -1,0 +1,117 @@
+.group-70,
+.group-70-1 {
+  display: flex;
+  height: 147px;
+  left: 1171px;
+  position: absolute;
+  top: 272px;
+  width: 224px;
+}
+
+.group-81,
+.group-81-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  width: 226px;
+}
+
+.group-69,
+.group-69-1 {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 2.99px;
+  min-width: 63px;
+}
+
+.path-59,
+.path-59-1 {
+  height: 15px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 8px;
+}
+
+.path-60,
+.path-60-1 {
+  height: 24px;
+  margin-bottom: 0;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.path-61,
+.path-61-1 {
+  height: 33px;
+  margin-bottom: 0;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.path-container-10,
+.path-container-11 {
+  height: 57px;
+  margin-left: 5px;
+  position: relative;
+  width: 25px;
+}
+
+.path-62,
+.path-62-1 {
+  height: 41px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 8px;
+}
+
+.path-63,
+.path-63-1 {
+  height: 57px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.level-up,
+.level-up-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 23px;
+  min-height: 27px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.achieve-affiliate-earn-10-per-1,
+.achieve-affiliate-earn-10-per-1-1 {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-top: 4px;
+  min-height: 18px;
+  min-width: 226px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.learn-more-1,
+.learn-more-2 {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-top: 5px;
+  min-height: 18px;
+  min-width: 80px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+

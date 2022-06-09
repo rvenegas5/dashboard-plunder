@@ -6,3 +6,76 @@
   width: 414px;
 }
 
+.overlap-group-70 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 1337px;
+  width: 414px;
+}
+
+.nav-6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 79px;
+  justify-content: space-between;
+  position: relative;
+  width: 414px;
+}
+
+.hamburgermenu-1 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -22.3px;
+  margin-right: 16px;
+  min-height: 46px;
+  padding: 13.0px 0;
+  width: 46px;
+}
+
+.x01-10 {
+  background-color: var(--eerie-black);
+  border-radius: 8px;
+  height: 3px;
+  margin-top: 1px;
+  width: 26px;
+}
+
+.hamburgermenu-item-1 {
+  background-color: var(--eerie-black);
+  border-radius: 8px;
+  height: 3px;
+  margin-top: 5px;
+  width: 26px;
+}
+
+.flex-row-17 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 4px;
+  margin-top: 19px;
+  min-width: 384px;
+}
+
+.my-connections-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 5.5px;
+  min-height: 31px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.searchbox-10 {
+  cursor: pointer;
+  height: 80px;
+  margin-left: 107px;
+  object-fit: cover;
+  width: 80px;
+}
+

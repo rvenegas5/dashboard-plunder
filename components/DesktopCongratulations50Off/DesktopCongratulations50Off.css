@@ -8,3 +8,79 @@
   width: 1920px;
 }
 
+.add-new-card-popup {
+  display: flex;
+  height: 269px;
+  width: 618px;
+}
+
+.content-popup {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #695f971a;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  position: relative;
+  width: 618px;
+}
+
+.tab-note-info {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: -733px;
+  margin-top: -1672px;
+  width: 1px;
+}
+
+.flex-row-3 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-top: 1695px;
+  min-width: 554px;
+  position: relative;
+}
+
+.title {
+  display: flex;
+  height: 25px;
+  margin-top: 2.0px;
+  width: 146px;
+}
+
+.congratulations {
+  flex: 1;
+  letter-spacing: 0.05px;
+  line-height: 23px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 146px;
+}
+
+.overlap-group-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 127px;
+  margin-right: -12.89px;
+  margin-top: 37px;
+  min-width: 197px;
+  padding: 25.2px 61.1px;
+}
+
+.shop-now {
+  letter-spacing: 0;
+  line-height: 60px;
+  min-height: 21px;
+  min-width: 74px;
+  text-align: center;
+  white-space: nowrap;
+}
+

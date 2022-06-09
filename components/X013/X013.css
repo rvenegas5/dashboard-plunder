@@ -1,0 +1,41 @@
+.x01-7 {
+  background-color: var(--bizarre);
+  border-radius: 5px;
+  display: flex;
+  height: 30px;
+  left: 186px;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.dashboard-10 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-bottom: 5px;
+  margin-left: 14.0px;
+  margin-right: 11.0px;
+  margin-top: 7px;
+  text-align: center;
+  width: 68px;
+}
+
+.x01-7.x01-8 {
+  align-items: flex-end;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 93px;
+  padding: 4px 12.0px;
+  width: unset;
+}
+
+.x01-7.x01-8 .dashboard-10 {
+  flex: unset;
+  height: 18px;
+  margin-bottom: unset;
+  margin-left: unset;
+  margin-right: unset;
+  margin-top: unset;
+}
+

@@ -1,0 +1,30 @@
+.dashboard-1-1 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 20px;
+  margin-bottom: 3.5px;
+  min-width: 23px;
+  padding: 7.0px 10.5px;
+}
+
+.vector-43 {
+  height: 2px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.dashboard-1-1.dashboard-1-5,
+.dashboard-1-1.dashboard-1-6,
+.dashboard-1-1.dashboard-1-7,
+.dashboard-1-1.dashboard-1-8 {
+  margin-bottom: unset;
+}
+
+.dashboard-1-1.dashboard-1-9 {
+  background-image: url(/static/img/vector-61@1x.png);
+  margin-bottom: unset;
+  margin-top: 1.0px;
+}
+

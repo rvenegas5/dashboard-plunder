@@ -1,0 +1,23 @@
+.background-2,
+.background-3 {
+  align-items: flex-end;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 1421px;
+  justify-content: flex-end;
+  left: 1px;
+  min-width: 1920px;
+  padding: 17px 471px;
+  position: absolute;
+  top: 1px;
+}
+
+.rectangle-37,
+.rectangle-37-1 {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px #0000000d;
+  height: 549px;
+  width: 335px;
+}
+

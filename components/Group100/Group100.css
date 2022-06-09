@@ -1,0 +1,22 @@
+.group-100-1 {
+  align-items: flex-start;
+  background-color: var(--silver-sand);
+  border-radius: 16px;
+  display: flex;
+  height: 39px;
+  min-width: 40px;
+  padding: 9.2px 12.1px;
+}
+
+.icon-user-6 {
+  height: 19px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.group-100-1.group-98-2 {
+  height: 40px;
+  margin-bottom: 1.0px;
+  padding: 10.4px 12.1px;
+}
+

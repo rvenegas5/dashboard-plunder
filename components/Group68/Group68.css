@@ -1,0 +1,43 @@
+.group-68 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 127px;
+  width: 85px;
+}
+
+.icon-label {
+  height: 82px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 85px;
+}
+
+.redeem {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 1.27px;
+  margin-top: 29px;
+  min-height: 21px;
+  min-width: 52px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.group-68.group-67,
+.group-68.group-67-1 {
+  margin-left: 15px;
+}
+
+.group-68.group-67 .icon-label,
+.group-68.group-67-1 .icon-label {
+  margin-left: 0;
+  margin-right: unset;
+}
+
+.group-68.group-66,
+.group-68.group-66-1 {
+  margin-left: 14px;
+}
+

@@ -1,0 +1,33 @@
+.button-withdraw-all-earning-15 {
+  align-items: flex-start;
+  background-color: var(--bizarre);
+  border-radius: 10px;
+  box-shadow: 2.78px 15.76px 40px #695f970d;
+  display: flex;
+  height: 18px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 58px;
+  padding: 1.4px 7.6px;
+  position: absolute;
+  top: 46px;
+}
+
+.shop-now-5 {
+  letter-spacing: 0.04px;
+  line-height: 15px;
+  min-height: 12px;
+  min-width: 42px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.button-withdraw-all-earning-15.button-withdraw-all-earning-16 {
+  align-self: center;
+  left: unset;
+  margin-right: 0;
+  margin-top: 16px;
+  position: unset;
+  top: unset;
+}
+

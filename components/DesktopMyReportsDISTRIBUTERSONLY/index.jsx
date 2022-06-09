@@ -6,18 +6,6 @@ import Dashboard1 from "../Dashboard1";
 import Group82 from "../Group82";
 import Group822 from "../Group822";
 import Group112 from "../Group112";
-import styled from "styled-components";
-import {
-  AvenirBookNormalStack14px,
-  AvenirBookNormalWhite13px,
-  MontserratBoldBlack44px,
-  AvenirBookNormalBlack12px,
-  AvenirBlackEerieBlack16px,
-  AvenirMediumCodGray18px,
-  AvenirMediumBlack13px,
-  Bodoni72BoldEerieBlack24px,
-  AvenirMediumBlack18px,
-} from "../../styledMixins";
 import "./DesktopMyReportsDISTRIBUTERSONLY.css";
 
 function DesktopMyReportsDISTRIBUTERSONLY(props) {
@@ -54,513 +42,91 @@ function DesktopMyReportsDISTRIBUTERSONLY(props) {
   return (
     <div className="container-center-horizontal">
       <div className="desktop-my-reports-distributers-only screen">
-        <OverlapGroup6>
-          <GroupContainer>
-            <Group113>
+        <div className="overlap-group6-3">
+          <div className="group-container-3">
+            <div className="group-113-3">
               <Searchbox />
               <Group2 />
-              <Profile>
-                <OverlapGroup1>
-                  <Icon src={icon} />
-                </OverlapGroup1>
+              <div className="profile-7">
+                <div className="overlap-group1-19">
+                  <img className="icon-6" src={icon} />
+                </div>
                 <Link to="/desktop-top-right-menu">
-                  <Profile1>
-                    <OverlapGroup>
-                      <FranklinJr>{franklinJr}</FranklinJr>
-                      <SuperAdmin>{superAdmin}</SuperAdmin>
-                    </OverlapGroup>
-                    <Arrow src={arrow} />
-                  </Profile1>
+                  <div className="profile-8">
+                    <div className="overlap-group-41">
+                      <div className="franklin-jr-4 avenir-black-eerie-black-16px">{franklinJr}</div>
+                      <div className="super-admin-9 avenir-book-normal-stack-14px">{superAdmin}</div>
+                    </div>
+                    <img className="arrow-10" src={arrow} />
+                  </div>
                 </Link>
-              </Profile>
-            </Group113>
-            <OverlapGroup4>
-              <Footer></Footer>
-              <Menus>
+              </div>
+            </div>
+            <div className="overlap-group4-7">
+              <div className="footer-3"></div>
+              <div className="menus-3">
                 <Link to="/desktop-dashboard">
-                  <X01>
+                  <div className="x01-6">
                     <Dashboard1 dashboard1={dashboard1Props.dashboard1} />
-                    <Dashboard>{dashboard}</Dashboard>
-                  </X01>
+                    <div className="dashboard-8 avenir-medium-cod-gray-18px">{dashboard}</div>
+                  </div>
                 </Link>
                 <Link to="/desktop-my-connections-ecwid-social-connect-dashboard">
-                  <X02>
-                    <Proposal style={{ backgroundImage: `url(${proposal})` }}></Proposal>
-                    <Projects>{projects}</Projects>
-                  </X02>
+                  <div className="x02-3">
+                    <div className="proposal-3" style={{ backgroundImage: `url(${proposal})` }}></div>
+                    <div className="projects-13 avenir-medium-black-18px">{projects}</div>
+                  </div>
                 </Link>
                 <Link to="/desktop-my-account">
-                  <Group83>
+                  <div className="group-83-3">
                     <Group82 iconUser={group82Props.iconUser} />
-                  </Group83>
+                  </div>
                 </Link>
-                <Group84>
+                <div className="group-84-3">
                   <Group822 group85Props={group822Props.group85Props} />
-                </Group84>
-              </Menus>
-              <OverlapGroup11 style={{ backgroundImage: `url(${overlapGroup1})` }}>
-                <ButtonWithdrawAllEarning>
-                  <LEARNMORE>{learnMore}</LEARNMORE>
-                </ButtonWithdrawAllEarning>
-              </OverlapGroup11>
-              <OverlapGroup2 style={{ backgroundImage: `url(${overlapGroup2})` }}>
-                <OverlapGroup12>
-                  <YourImageHere src={yourImageHere1} />
-                  <SLEEPANGLE src={sleepangle1} />
+                </div>
+              </div>
+              <div className="overlap-group1-20" style={{ backgroundImage: `url(${overlapGroup1})` }}>
+                <div className="button-withdraw-all-earning-12">
+                  <div className="learn-more-5 avenir-medium-black-13px">{learnMore}</div>
+                </div>
+              </div>
+              <div className="overlap-group2-10" style={{ backgroundImage: `url(${overlapGroup2})` }}>
+                <div className="overlap-group1-21">
+                  <img className="your-image-here-6" src={yourImageHere1} />
+                  <img className="sleepangle-6" src={sleepangle1} />
                   <a href="https://nulifespan.com/store-2/" target="_blank">
-                    <Group25>
-                      <OverlapGroup3 style={{ backgroundImage: `url(${overlapGroup})` }}>
-                        <EXPLORE>{explore}</EXPLORE>
-                      </OverlapGroup3>
-                    </Group25>
+                    <div className="group-25-6">
+                      <div className="overlap-group-42" style={{ backgroundImage: `url(${overlapGroup})` }}>
+                        <div className="explore-3 avenir-book-normal-white-13px">{explore}</div>
+                      </div>
+                    </div>
                   </a>
-                  <Ongoing>{ongoing1}</Ongoing>
-                </OverlapGroup12>
-                <JustIn>{justIn}</JustIn>
-              </OverlapGroup2>
-              <OverlapGroup31 style={{ backgroundImage: `url(${overlapGroup3})` }}>
-                <YourImageHere1 src={yourImageHere2} />
-                <SLEEPANGLE1 src={sleepangle2} />
+                  <div className="ongoing-6 avenir-book-normal-black-12px">{ongoing1}</div>
+                </div>
+                <div className="just-in-3 bodoni72-bold-eerie-black-24px">{justIn}</div>
+              </div>
+              <div className="overlap-group3-6" style={{ backgroundImage: `url(${overlapGroup3})` }}>
+                <img className="your-image-here-7" src={yourImageHere2} />
+                <img className="sleepangle-7" src={sleepangle2} />
                 <a href="https://nulifespan.com/store-2/" target="_blank">
-                  <Group251>
-                    <OverlapGroup5 style={{ backgroundImage: `url(${overlapGroup4})` }}>
-                      <SUBSCRIBE>{subscribe}</SUBSCRIBE>
-                    </OverlapGroup5>
-                  </Group251>
+                  <div className="group-25-7">
+                    <div className="overlap-group-43" style={{ backgroundImage: `url(${overlapGroup4})` }}>
+                      <div className="subscribe-3 avenir-book-normal-white-13px">{subscribe}</div>
+                    </div>
+                  </div>
                 </a>
-                <PosseBox>{posseBox}</PosseBox>
-                <Ongoing1>{ongoing2}</Ongoing1>
-              </OverlapGroup31>
-            </OverlapGroup4>
+                <div className="posse-box-3 bodoni72-bold-eerie-black-24px">{posseBox}</div>
+                <p className="ongoing-7 avenir-book-normal-black-12px">{ongoing2}</p>
+              </div>
+            </div>
             <Group112 />
-          </GroupContainer>
-          <MyReports>{myReports}</MyReports>
-        </OverlapGroup6>
+          </div>
+          <div className="my-reports montserrat-bold-black-44px">{myReports}</div>
+        </div>
       </div>
     </div>
   );
 }
-
-const OverlapGroup6 = styled.div`
-  width: 1920px;
-  height: 1439px;
-  position: relative;
-`;
-
-const GroupContainer = styled.div`
-  position: absolute;
-  width: 1920px;
-  height: 1439px;
-  top: 0;
-  left: 0;
-`;
-
-const Group113 = styled.div`
-  position: absolute;
-  height: 120px;
-  top: 0;
-  left: 0;
-  display: flex;
-  padding: 0 50px;
-  justify-content: flex-end;
-  align-items: center;
-  min-width: 1920px;
-  background-color: var(--white);
-`;
-
-const Profile = styled.div`
-  margin-left: 68px;
-  margin-bottom: 1px;
-  display: flex;
-  align-items: center;
-  min-width: 223px;
-`;
-
-const OverlapGroup1 = styled.div`
-  height: 57px;
-  display: flex;
-  padding: 15px 17px;
-  justify-content: flex-end;
-  align-items: flex-start;
-  min-width: 57px;
-  background-color: var(--silver-sand);
-  border-radius: 14px;
-`;
-
-const Icon = styled.img`
-  width: 22px;
-  height: 26px;
-  object-fit: cover;
-`;
-
-const Profile1 = styled.div`
-  height: 55px;
-  margin-left: 24px;
-  display: flex;
-  align-items: center;
-  min-width: 142px;
-  cursor: pointer;
-`;
-
-const OverlapGroup = styled.div`
-  width: 88px;
-  height: 57px;
-  position: relative;
-  align-self: flex-end;
-  margin-bottom: -2px;
-`;
-
-const FranklinJr = styled.div`
-  ${AvenirBlackEerieBlack16px}
-  position: absolute;
-  width: 77px;
-  height: 32px;
-  top: 0;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 16px;
-`;
-
-const SuperAdmin = styled.div`
-  ${AvenirBookNormalStack14px}
-  position: absolute;
-  width: 88px;
-  height: 28px;
-  top: 29px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 14px;
-`;
-
-const Arrow = styled.img`
-  width: 15px;
-  height: 8px;
-  margin-left: 39px;
-  margin-top: 1px;
-  object-fit: cover;
-`;
-
-const OverlapGroup4 = styled.div`
-  position: absolute;
-  width: 345px;
-  height: 1455px;
-  top: 0;
-  left: 0;
-`;
-
-const Footer = styled.div`
-  position: absolute;
-  width: 345px;
-  height: 1421px;
-  top: 0;
-  left: 0;
-  background-color: var(--white);
-  box-shadow: 18px 4px 70px #00000005;
-`;
-
-const Menus = styled.div`
-  position: absolute;
-  width: 285px;
-  top: 120px;
-  left: 30px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  min-height: 220px;
-`;
-
-const X01 = styled.div`
-  height: 50px;
-  position: relative;
-  display: flex;
-  padding: 9px 22.3px;
-  align-items: center;
-  min-width: 285px;
-  background-color: var(--bizarre);
-  border-radius: 10px;
-  cursor: pointer;
-`;
-
-const Dashboard = styled.div`
-  ${AvenirMediumCodGray18px}
-  width: 98px;
-  height: 31px;
-  align-self: flex-end;
-  margin-left: 28px;
-  letter-spacing: 0;
-  line-height: 18px;
-`;
-
-const X02 = styled.div`
-  height: 50px;
-  margin-top: 14px;
-  display: flex;
-  padding: 9px 25.2px;
-  align-items: center;
-  min-width: 285px;
-  background-color: var(--white);
-  border-radius: 10px;
-  cursor: pointer;
-`;
-
-const Proposal = styled.div`
-  width: 18px;
-  height: 24px;
-  background-size: cover;
-  background-position: 50% 50%;
-`;
-
-const Projects = styled.div`
-  ${AvenirMediumBlack18px}
-  width: 145px;
-  height: 29px;
-  align-self: flex-end;
-  margin-left: 31px;
-  letter-spacing: 0;
-  line-height: 18px;
-`;
-
-const Group83 = styled.div`
-  height: 50px;
-  position: relative;
-  margin-top: 6px;
-  display: flex;
-  padding: 11px 26px;
-  align-items: flex-end;
-  min-width: 285px;
-  background-color: var(--white);
-  border-radius: 10px;
-  cursor: pointer;
-`;
-
-const Group84 = styled.div`
-  height: 50px;
-  position: relative;
-  display: flex;
-  padding: 11px 26px;
-  align-items: flex-end;
-  min-width: 285px;
-  background-color: var(--white);
-  border-radius: 10px;
-`;
-
-const OverlapGroup11 = styled.div`
-  position: absolute;
-  height: 600px;
-  top: 382px;
-  left: 30px;
-  display: flex;
-  padding: 17.2px 14px;
-  align-items: flex-end;
-  min-width: 285px;
-  border-radius: 10px;
-  background-size: cover;
-  background-position: 50% 50%;
-`;
-
-const ButtonWithdrawAllEarning = styled.div`
-  height: 40px;
-  display: flex;
-  padding: 0 9.7px;
-  justify-content: flex-end;
-  align-items: flex-start;
-  min-width: 108px;
-  background-color: var(--bizarre);
-  border-radius: 10px;
-  box-shadow: 2.7783708572387695px 15.75692367553711px 40px #695f970d;
-`;
-
-const LEARNMORE = styled.div`
-  ${AvenirMediumBlack13px}
-  min-height: 20px;
-  margin-top: -3.5px;
-  min-width: 86px;
-  text-align: center;
-  letter-spacing: 0.08px;
-  line-height: 49px;
-  white-space: nowrap;
-`;
-
-const OverlapGroup2 = styled.div`
-  position: absolute;
-  width: 309px;
-  height: 224px;
-  top: 1001px;
-  left: 18px;
-  background-size: cover;
-  background-position: 50% 50%;
-`;
-
-const OverlapGroup12 = styled.div`
-  position: absolute;
-  width: 270px;
-  height: 200px;
-  top: 8px;
-  left: 27px;
-`;
-
-const YourImageHere = styled.img`
-  position: absolute;
-  width: 191px;
-  height: 191px;
-  top: 7px;
-  left: 79px;
-  object-fit: cover;
-`;
-
-const SLEEPANGLE = styled.img`
-  position: absolute;
-  width: 128px;
-  height: 200px;
-  top: 0;
-  left: 142px;
-  object-fit: cover;
-`;
-
-const Group25 = styled.div`
-  position: absolute;
-  height: 40px;
-  top: 147px;
-  left: 0;
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-start;
-  min-width: 114px;
-  cursor: pointer;
-`;
-
-const OverlapGroup3 = styled.div`
-  height: 160px;
-  margin-top: -44.24px;
-  display: flex;
-  padding: 40.7px 86px;
-  align-items: flex-start;
-  min-width: 234px;
-  background-size: cover;
-  background-position: 50% 50%;
-`;
-
-const EXPLORE = styled.div`
-  ${AvenirBookNormalWhite13px}
-  min-height: 20px;
-  min-width: 58px;
-  text-align: center;
-  letter-spacing: 0.08px;
-  line-height: 49px;
-  white-space: nowrap;
-`;
-
-const Ongoing = styled.div`
-  ${AvenirBookNormalBlack12px}
-  position: absolute;
-  width: 114px;
-  height: 46px;
-  top: 61px;
-  left: 0;
-  letter-spacing: 0;
-  line-height: 12px;
-`;
-
-const JustIn = styled.div`
-  ${Bodoni72BoldEerieBlack24px}
-  position: absolute;
-  top: 34px;
-  left: 27px;
-  letter-spacing: 0;
-  line-height: 26px;
-  white-space: nowrap;
-`;
-
-const OverlapGroup31 = styled.div`
-  position: absolute;
-  width: 309px;
-  height: 224px;
-  top: 1231px;
-  left: 18px;
-  background-size: cover;
-  background-position: 50% 50%;
-`;
-
-const YourImageHere1 = styled.img`
-  position: absolute;
-  width: 191px;
-  height: 191px;
-  top: 15px;
-  left: 106px;
-  object-fit: cover;
-`;
-
-const SLEEPANGLE1 = styled.img`
-  position: absolute;
-  width: 128px;
-  height: 200px;
-  top: 8px;
-  left: 169px;
-  object-fit: cover;
-`;
-
-const Group251 = styled.div`
-  position: absolute;
-  height: 40px;
-  top: 158px;
-  left: 24px;
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-start;
-  min-width: 114px;
-  cursor: pointer;
-`;
-
-const OverlapGroup5 = styled.div`
-  height: 160px;
-  margin-top: -44.24px;
-  display: flex;
-  padding: 40.7px 80px;
-  align-items: flex-start;
-  min-width: 234px;
-  background-size: cover;
-  background-position: 50% 50%;
-`;
-
-const SUBSCRIBE = styled.div`
-  ${AvenirBookNormalWhite13px}
-  min-height: 20px;
-  min-width: 70px;
-  text-align: center;
-  letter-spacing: 0.08px;
-  line-height: 49px;
-  white-space: nowrap;
-`;
-
-const PosseBox = styled.div`
-  ${Bodoni72BoldEerieBlack24px}
-  position: absolute;
-  top: 50px;
-  left: 24px;
-  letter-spacing: 0;
-  line-height: 26px;
-  white-space: nowrap;
-`;
-
-const Ongoing1 = styled.p`
-  ${AvenirBookNormalBlack12px}
-  position: absolute;
-  width: 133px;
-  height: 46px;
-  top: 84px;
-  left: 24px;
-  letter-spacing: 0;
-  line-height: 12px;
-`;
-
-const MyReports = styled.div`
-  ${MontserratBoldBlack44px}
-  position: absolute;
-  top: 151px;
-  left: 397px;
-  letter-spacing: 0;
-  line-height: 44px;
-  white-space: nowrap;
-`;
 
 export default DesktopMyReportsDISTRIBUTERSONLY;

@@ -6,3 +6,76 @@
   width: 414px;
 }
 
+.group-21-2 {
+  align-items: flex-start;
+  background-color: var(--cultured-pearl);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1px;
+  min-height: 200px;
+  padding: 20.0px 21.4px;
+  width: 379px;
+}
+
+.active-6 {
+  display: flex;
+  height: 96px;
+  margin-top: 5px;
+  width: 301px;
+}
+
+.input-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  width: 301.49px;
+}
+
+.input-box-6 {
+  height: 24px;
+  letter-spacing: 1.00px;
+  line-height: 16px;
+  margin-left: 0.71px;
+  width: 151px;
+}
+
+.overlap-group-59 {
+  align-items: flex-start;
+  border-radius: 14px;
+  display: flex;
+  height: 60px;
+  margin-top: 12px;
+  min-width: 301px;
+  padding: 10px 21.0px;
+}
+
+.input-here-10 {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: 20px;
+  width: 156px;
+}
+
+.flex-row-11 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  margin-left: 0;
+  margin-top: 20px;
+  min-width: 217px;
+  position: relative;
+}
+
+.super-admin-15 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 15px;
+  margin-top: 1.59px;
+  width: 59px;
+}
+

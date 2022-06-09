@@ -6,3 +6,80 @@
   width: 414px;
 }
 
+.add-new-card-popup-2 {
+  display: flex;
+  height: 269px;
+  width: 318px;
+}
+
+.content-popup-2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #695f971a;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  position: relative;
+  width: 318px;
+}
+
+.tab-note-info-2 {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: -377.17px;
+  margin-top: -1672px;
+  width: 1px;
+}
+
+.flex-row-14 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-top: 1695px;
+  min-width: 254px;
+  position: relative;
+}
+
+.title-5 {
+  display: flex;
+  height: 25px;
+  margin-top: 2.0px;
+  width: 146px;
+}
+
+.congratulations-2 {
+  flex: 1;
+  letter-spacing: 0.05px;
+  line-height: 23px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 146px;
+}
+
+.name-on-card-2 {
+  display: flex;
+  height: 71px;
+  margin-left: 4.0px;
+  margin-top: 11px;
+  width: 258px;
+}
+
+.the-50-off-item-wil-2 {
+  color: var(--black);
+  flex: 1;
+  font-family: var(--font-family-avenir-book);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-bottom: 0.5px;
+  margin-right: -2px;
+  margin-top: -2.5px;
+  white-space: nowrap;
+  width: 258px;
+}
+

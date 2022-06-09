@@ -8,3 +8,126 @@
   width: 1024px;
 }
 
+.overlap-group3-7 {
+  height: 573px;
+  margin-left: 379px;
+  position: relative;
+  width: 527px;
+}
+
+.rectangle-17 {
+  background-color: var(--romance);
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 527px;
+  left: -23px;
+  position: absolute;
+  top: 23px;
+  transform: rotate(90deg);
+  width: 573px;
+}
+
+.overlap-group2-11 {
+  height: 129px;
+  left: 13px;
+  position: absolute;
+  top: 348px;
+  width: 500px;
+}
+
+.active-3 {
+  display: flex;
+  height: 129px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 500px;
+}
+
+.input-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  width: 500.29px;
+}
+
+.input-box-3 {
+  height: 24px;
+  letter-spacing: 1.00px;
+  line-height: 16px;
+  margin-left: 0.71px;
+  width: 180px;
+}
+
+.overlap-group-44 {
+  align-items: center;
+  border-radius: 14px;
+  display: flex;
+  height: 60px;
+  margin-top: 12px;
+  min-width: 500px;
+  padding: 0 169.5px;
+}
+
+.input-here-5 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 16px;
+  width: 156px;
+}
+
+.input-here-6 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 0.71px;
+  margin-top: 11px;
+  width: 371px;
+}
+
+.overlap-group1-22 {
+  height: 36px;
+  left: 8px;
+  position: absolute;
+  top: 48px;
+  width: 151px;
+}
+
+.rectangle-19-1 {
+  background-color: var(--iron);
+  border-radius: 10px;
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.input-here-7 {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0.08px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 151px;
+}
+
+.change-profile-picture-1 {
+  color: var(--eerie-black);
+  font-family: var(--font-family-montserrat);
+  font-size: 24px;
+  font-weight: 700;
+  height: 39px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 291px;
+}
+

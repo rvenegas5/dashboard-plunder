@@ -8,3 +8,50 @@
   width: 414px;
 }
 
+.nav-8 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 79px;
+  justify-content: space-between;
+  position: relative;
+  width: 414px;
+}
+
+.hamburgermenu-3 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -22.3px;
+  margin-right: 16px;
+  min-height: 46px;
+  padding: 13.0px 0;
+  width: 46px;
+}
+
+.x01-12 {
+  background-color: var(--eerie-black);
+  border-radius: 8px;
+  height: 3px;
+  margin-top: 1px;
+  width: 26px;
+}
+
+.hamburgermenu-item-3 {
+  background-color: var(--eerie-black);
+  border-radius: 8px;
+  height: 3px;
+  margin-top: 5px;
+  width: 26px;
+}
+
+.my-reports-2 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 27px;
+  margin-top: 20px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+

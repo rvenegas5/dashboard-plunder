@@ -1,0 +1,21 @@
+.name-on-card,
+.name-on-card-1 {
+  display: flex;
+  height: 48px;
+  margin-right: 55.0px;
+  margin-top: 11px;
+  width: 499px;
+}
+
+.the-50-off-item-wil,
+.the-50-off-item-wil-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-bottom: 2px;
+  margin-right: -2px;
+  margin-top: -4px;
+  white-space: nowrap;
+  width: 499px;
+}
+

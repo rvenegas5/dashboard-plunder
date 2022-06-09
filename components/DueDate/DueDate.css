@@ -1,0 +1,21 @@
+.due-date-2,
+.due-date-3 {
+  display: flex;
+  height: 34px;
+  left: 160px;
+  position: absolute;
+  top: 17px;
+  width: 114px;
+}
+
+.x1000-1100-8,
+.x1000-1100-9 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-bottom: -2px;
+  margin-right: -2px;
+  text-align: right;
+  width: 114px;
+}
+

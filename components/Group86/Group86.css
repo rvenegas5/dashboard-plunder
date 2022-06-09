@@ -1,0 +1,30 @@
+.group-86,
+.group-86-1,
+.group-86-2,
+.group-86-3 {
+  display: flex;
+  margin-bottom: 1px;
+  width: 225px;
+}
+
+.header-9,
+.header-10,
+.header-11,
+.header-12 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  min-width: 225px;
+  padding: 30px 25px;
+}
+
+.plunder-black-logo-250-5,
+.plunder-black-logo-250-6,
+.plunder-black-logo-250-7,
+.plunder-black-logo-250-8 {
+  height: 17px;
+  object-fit: cover;
+  width: 163px;
+}
+

@@ -8,3 +8,57 @@
   width: 1024px;
 }
 
+.add-new-card-popup-1 {
+  display: flex;
+  height: 269px;
+  width: 618px;
+}
+
+.content-popup-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 4px 8px #695f971a;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  position: relative;
+  width: 618px;
+}
+
+.tab-note-info-1 {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: -733px;
+  margin-top: -1672px;
+  width: 1px;
+}
+
+.flex-row-10 {
+  align-items: center;
+  display: flex;
+  height: 45px;
+  margin-top: 1695px;
+  min-width: 554px;
+  position: relative;
+}
+
+.title-3 {
+  display: flex;
+  height: 25px;
+  margin-top: 2.0px;
+  width: 146px;
+}
+
+.congratulations-1 {
+  flex: 1;
+  letter-spacing: 0.05px;
+  line-height: 23px;
+  margin-bottom: -3px;
+  margin-right: -2px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 146px;
+}
+

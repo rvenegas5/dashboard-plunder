@@ -4,3 +4,362 @@
   width: 1024px;
 }
 
+.overlap-group2-15 {
+  height: 1366px;
+  position: relative;
+  width: 1024px;
+}
+
+.background-9 {
+  align-items: flex-start;
+  background-color: var(--hint-of-red);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1363px;
+  padding: 219px 154.0px;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.group-127-1 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  min-height: 315px;
+  position: relative;
+  width: 275px;
+}
+
+.super-admin-12 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-left: 2.0px;
+  margin-top: 16px;
+  text-align: center;
+  width: 107px;
+}
+
+.group-126 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 33px;
+  min-height: 395px;
+  width: 509px;
+}
+
+.overlap-group1-31 {
+  height: 133px;
+  margin-left: 0;
+  margin-top: -2px;
+  position: relative;
+  width: 477px;
+}
+
+.level-status-custo-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+}
+
+.dashboard-12 {
+  height: 66px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  width: 477px;
+}
+
+.group-31 {
+  align-items: center;
+  display: flex;
+  height: 26px;
+  margin-left: 0;
+  margin-top: 73px;
+  min-width: 511px;
+}
+
+.icon-call-1 {
+  height: 22px;
+  margin-bottom: 1.5px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.phone-1 {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 12px;
+  min-height: 26px;
+  min-width: 61px;
+  white-space: nowrap;
+}
+
+.super-admin-13 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -2px;
+  margin-left: 357px;
+  width: 59px;
+}
+
+.group-30 {
+  align-items: center;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-top: 49px;
+  min-width: 511px;
+}
+
+.email-2-1-1 {
+  height: 14px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 20px;
+}
+
+.email-3 {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 14px;
+  min-height: 26px;
+  min-width: 51px;
+  white-space: nowrap;
+}
+
+.super-admin-14 {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -2px;
+  margin-left: 367px;
+  width: 59px;
+}
+
+.overlap-group-58 {
+  height: 36px;
+  margin-left: 0;
+  margin-top: 50px;
+  position: relative;
+  width: 452px;
+}
+
+.dashboard-13 {
+  height: 33px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.plunderdesigncomweb_alias-1 {
+  left: 173px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.nav-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 120px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1024px;
+  padding: 0 47px;
+  position: absolute;
+  top: 0;
+}
+
+.separator-4 {
+  background-color: var(--black-haze);
+  border-radius: 8px;
+  height: 56px;
+  margin-left: 367px;
+  width: 1px;
+}
+
+.profile-13 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 1.0px;
+  margin-left: 24px;
+  min-width: 88px;
+}
+
+.overlap-group1-32 {
+  align-items: flex-start;
+  background-color: var(--silver-sand);
+  border-radius: 14px;
+  display: flex;
+  height: 57px;
+  justify-content: flex-end;
+  min-width: 57px;
+  padding: 15.0px 17.0px;
+}
+
+.icon-9 {
+  height: 26px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.profile-14 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  width: 15px;
+}
+
+.my-account-1 {
+  left: 155px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 148px;
+  white-space: nowrap;
+}
+
+.sidebar-2 {
+  background-color: var(--white);
+  box-shadow: 18px 4px 70px #00000005;
+  display: flex;
+  flex-direction: column;
+  height: 1366px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.header-7 {
+  align-items: center;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  max-height: 120px;
+  min-width: 100%;
+  padding: 0 32px;
+}
+
+.overlap-group1-33 {
+  align-items: flex-start;
+  background-color: var(--bizarre);
+  border-radius: 14px;
+  display: flex;
+  height: 56px;
+  min-width: 56px;
+  padding: 12.7px 10.0px;
+}
+
+.path-71-2 {
+  height: 30px;
+  object-fit: cover;
+  width: 35px;
+}
+
+.menus-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  min-height: 261px;
+}
+
+.menu-2 {
+  height: 24px;
+  letter-spacing: 1.00px;
+  line-height: 16px;
+  width: 66px;
+}
+
+.dashboard-14 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-right: 2px;
+  margin-top: 23px;
+  min-width: 74px;
+  padding: 13.3px 25.3px;
+  position: relative;
+}
+
+.email-4 {
+  align-items: center;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  margin-right: 2px;
+  margin-top: 14px;
+  min-width: 74px;
+  padding: 0 28.2px;
+}
+
+.proposal-6 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  width: 18px;
+}
+
+.group-121-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 50px;
+  margin-right: 2px;
+  min-width: 74px;
+  padding: 15.1px 24.3px;
+}
+
+.users-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  width: 25px;
+}
+
+.group-95-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-right: 2px;
+  min-width: 74px;
+  padding: 12.9px 26.8px;
+  position: relative;
+}
+
