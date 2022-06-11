@@ -52,13 +52,9 @@
   display: flex;
   flex-direction: row;
   pointer-events: none;
-<<<<<<< HEAD
   width: 100%;
   justify-content: center;
-=======
-  display: block;
-  zoom: 75%;
->>>>>>> c5fee8982e1e413b97babf9108022a0a42415e02
+  zoom: 100%;
 }
 
 .container-center-horizontal > * {

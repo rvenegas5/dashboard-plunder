@@ -52,6 +52,7 @@
 .container-center-horizontal {
   pointer-events: none;
   width: 100%;
+  zoom: 100%;
   flex-direction: row;
   justify-content: center;
   display: flex;
@@ -842,8 +843,6 @@
 .border-1px-dove-gray {
   border: 1px solid var(--dove-gray);
 }
-
-
 
 .desktop-search-popup {
   height: 1421px;
@@ -11519,5 +11518,7 @@
   top: 182px;
   left: 407px;
 }
+
+
 
 /*# sourceMappingURL=index.e1b8c111.css.map */
